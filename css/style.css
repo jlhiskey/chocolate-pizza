@@ -1,0 +1,165 @@
+body {
+  background-color: white
+  
+}
+div {
+  margin: 16%;
+}
+
+header div {
+  
+  padding-bottom: 6%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  
+}
+
+#logo {
+  position: absolute;
+  float: left;
+}
+
+.delicious {
+  position: absolute;
+  float: left;
+  left: 5%;
+}
+
+.delicious h2 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 2em;
+}
+
+.delicious p {
+  font-size: 10px;
+}
+
+.icons {
+  position: absolute;
+  float: right;
+  right: 0px;
+  top: 0px;
+}
+
+.icons img:hover {
+  color: blue;
+}
+
+#pint {
+  margin-right: 5px;
+}
+
+hr {
+  background-color: rgb(179, 172, 172);
+  padding: .5%;
+  margin: 16%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.top {
+  
+  padding: 4%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  height: 60px;
+}
+
+#Title p{
+  font-size: 10px;
+  color: lightgrey;
+}
+
+#Title h1{
+  font-size: 40px;
+  font-weight: 700;
+}
+
+#print {
+  float: right;
+  right: 0px;
+  bottom: 50px;
+
+}
+
+.chocolatepizzapicture {
+  background-image: url('../img/choco-pizza.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  
+  padding: 23%;
+  margin-top: 0px;
+  margin-bottom: 0%
+}
+
+.cookinginstructions {
+  
+  padding: 0%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.cookinginstructions p {
+  margin: 5%;
+  text-indent: 2%;
+}
+
+.ingredients {
+  
+  background-image: url('../img/list-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding: 8%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  font-size: 1 em;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.listLeft {
+  position:absolute;
+  top: 2%;
+  left: 0%;  
+}
+
+.listRight {
+  position:absolute;
+  top: 25%;
+  left: 60%;
+  
+}
+
+.ing label {
+  display:block;
+  margin-bottom: 0%;
+}
+
+.aboutme {
+  
+  padding: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.footer {
+
+  padding: 3%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+}
+
+.profilephoto {
+  position: absolute;
+  float: left;
+}
+
+.aboutmetext {
+  position: absolute;
+  float: left;
+  left: 15%;
+}
